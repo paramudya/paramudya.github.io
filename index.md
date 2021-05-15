@@ -1,6 +1,4 @@
-blankie blankie its time for school
-
-\
+blankie blankie its time for school\
 \
 \
 \
