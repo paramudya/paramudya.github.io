@@ -8,4 +8,5 @@ blankie blankie its time for school\
 ## porto 1
 ### [genetic algorithm on ROS environment](ga.md)
 
-(here is a brie overview)UKF parameters' optimization for vehicle localization by means of genetic algorithm.
+(here's a brief overview, misal:)
+UKF parameters' optimization for vehicle localization by means of genetic algorithm.
