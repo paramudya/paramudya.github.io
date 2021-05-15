@@ -1,6 +1,11 @@
 blankie blankie its time for school
 
-
+\
+\
+\
+\
+\
+\
 
 ## porto 2
 (belom ada pak hehe)
