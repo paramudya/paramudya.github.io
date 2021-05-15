@@ -4,3 +4,5 @@ An implementation of genetic algorithm to optimize the parameters of Unscented K
 The sensors used are GNSS, IMU, and wheel encoders with five states in the algorithm: _x_, _y_, _\x{o}_, _\y{o}_, _yaw_.
 
 All this is me and [my partner](https://github.com/anzulfa)'s final project for our undergraduate thesis.
+
+The repo can be found [here](https://github.com/anzulfa/localization_system/tree/main/ga).
